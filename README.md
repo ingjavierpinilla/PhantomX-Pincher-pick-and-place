@@ -1,5 +1,6 @@
 # PhantomX Pincher pick and place
 ## READ ME
+[![Project Video](https://img.youtube.com/vi/CVnChKj30n8w/0.jpg)](http://www.youtube.com/watch?v=CVnChKj30n8)
 
 This project allows for take-and-leave actions with the Phantom X pincher robot, using Matlab and ROS
 
